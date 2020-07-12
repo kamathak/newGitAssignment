@@ -1,0 +1,17 @@
+{
+    "borrowerName" : "Perona",
+    "addressLine1" : "",
+    "addressLine2" : "",
+    "city" : "",
+    "zip" : 0,
+    "state" : "",
+    "loanNumber" : "1233A",
+         "loanAmount" : 1234568, 
+         "loanTerm" : 0,
+          "lienID" : "",
+           "lienType" : "",
+            "legalDescription" : ""
+
+}
+
+http://localhost:9092/api/v1/loan/searchLoan
